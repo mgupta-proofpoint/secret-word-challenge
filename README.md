@@ -104,13 +104,6 @@ You should have been provided an archive file containing source code and a dicti
 
 The resources contain a dictionary file called words.txt. You can assume all words that your program will be tested with come from this dictionary file.
 
-### Your First Run
-
-If you are familiar with [sbt](https://www.scala-sbt.org/), or can easily add our source to your build system of choice, then you should be able to jump right in.
-
-For those that are new to [sbt](https://www.scala-sbt.org/), you can see how our "NaiveStrategy" performs on a set of test words by running ```sbt test``` on the command line at the root of this directory after installing.
-
-After the initial run, try swapping our NaiveStrategy for your own implementation and examine the new test output to see how your solutions performs for the same words. 
 
 ## Judging
 
