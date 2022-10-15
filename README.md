@@ -100,9 +100,7 @@ UNIFORMED = 5
 
 ## Resources
 
-You should have been provided an archive file containing source code and a dictionary file to get you started. If any materials appear to be missing, or if you have any questions, please contact us right away.
-
-The resources contain a dictionary file called words.txt. You can assume all words that your program will be tested with come from this dictionary file.
+The resources contain a dictionary file called words.txt. You can assume all words that your program will be tested with come from this dictionary file. Please contact us for any questions.
 
 
 ## Judging
