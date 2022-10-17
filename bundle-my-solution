@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+if ! command -v tar &> /dev/null
+then
+    echo "tar could not be found - please install or bundle your solution using another method"
+    exit
+fi
+
+rm my-solution.tgz ; tar cvfz my-solution.tgz src/main/scala/ src/main/java/ src/main/resources/ src/test/scala/ build.sbt project/build.properties LICENSE README.md
