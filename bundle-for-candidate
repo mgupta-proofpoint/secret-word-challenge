@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-
-rm secret-word.tgz ; tar cvfz secret-word.tgz --exclude=src/main/scala/com/proofpoint/secretword/strategy/ src/main/scala/ src/main/java/ src/main/resources/ src/test/scala/ build.sbt project/build.properties LICENSE README.md
-rm secret-word.zip; zip -r secret-word.zip src/main/scala/ src/main/java/ src/main/resources/ src/test/scala/ build.sbt project/build.properties LICENSE README.md -x "src/main/scala/com/proofpoint/secretword/strategy/*"
