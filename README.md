@@ -124,4 +124,4 @@ Your solution will be graded on the following criteria
 
 When you are ready to submit your solution, please respond to our recruiting team with an archive file containing your solution's source code.
 
-Please note that Proofpoint's email gateways are very sensitive to compiled code, and will likely reject any emails that contain .class, .jar, and related files.  A command-line script ```./bundle-my-solution``` has been provided which should help in this area if you would like to use it. 
+Please note that Proofpoint's email gateways are very sensitive to compiled code, and will likely reject any emails that contain .class, .jar, and related files.  So please only include the source files (.java/.properties etc) when you share your code solution.
